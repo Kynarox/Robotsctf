@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin-panel-super-secret
+Disallow: /definitely-not-the-flag
+# Note to admins: Please don't share the location of our super secret admin panel

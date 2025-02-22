@@ -4,6 +4,8 @@ import random
 app = Flask(__name__)
 
 paths = [
+    "/admin-panel-super-secret",
+    "/definitely-not-the-flag",
     "/hidden-dashboard",
     "/confidential-settings",
     "/private-files",

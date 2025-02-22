@@ -11,4 +11,4 @@ Disallow: /classified-documents
 Disallow: /sensitive-info
 Disallow: /secure-zone
 Disallow: /do-not-open
-# Note to admins: Please don't share the location of our super secret admin panel
+# Note to admins: Please don't share the location of our admin dashboard

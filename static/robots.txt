@@ -1,4 +1,14 @@
 User-agent: *
 Disallow: /admin-panel-super-secret
 Disallow: /definitely-not-the-flag
+Disallow: /hidden-dashboard
+Disallow: /confidential-settings
+Disallow: /private-files
+Disallow: /restricted-access
+Disallow: /top-secret-folder
+Disallow: /no-entry-here
+Disallow: /classified-documents
+Disallow: /sensitive-info
+Disallow: /secure-zone
+Disallow: /do-not-open
 # Note to admins: Please don't share the location of our super secret admin panel
